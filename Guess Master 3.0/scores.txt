@@ -1,0 +1,15 @@
+Alex,29,242
+Alex,16,111
+AMich,9,61
+Why,16,31
+,6,23
+T.J.,5,20
+Mac,3,12
+Jessie,4,11
+Mohira,3,10
+Anastasia,4,9
+JoyMay,1,8
+Ape,6,8
+Taylor,2,7
+,2,2
+,1,0
